@@ -2,3 +2,5 @@
 # subtitle of page
 
 the first paragraph with **bold text**.
+
+second paragraph with *italic text*.
